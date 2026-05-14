@@ -30,7 +30,7 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "HRIDOY_BBZ🥰",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -45,12 +45,12 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
+      "100050706877949",
       "100015168369582"
     ]
   },
   "adminBot": [
-    "100082395531611",
+    "100050706877949",
     "100015168369582"
   ],
   "whiteListMode": {
